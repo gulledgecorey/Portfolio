@@ -13,3 +13,6 @@ This website can be used to to look at all the cool things that css stlying can 
 
 Please refer to the LICENSE in my repo.
 
+## Deployment
+
+https://gulledgecorey.github.io/Portfolio/
