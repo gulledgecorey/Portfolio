@@ -1,0 +1,40 @@
+.header {
+    background-color: aquamarine;
+    height: 5vh;
+    display: flex;
+    justify-content: space-between;
+    margin: 1rem 0.5rem;
+}
+
+.header-ul {
+    display: flex;
+    border: solid 2px black;
+}
+
+.header-ul li {
+    margin: 0 0.25rem;
+}
+
+.main {
+    background-color: aqua;
+    height: 90vh;
+    border: solid 2px; 
+}
+
+.footer {
+    background-color: aquamarine;
+    height: 10vh;
+    font-size: medium;
+    display: flex;
+    justify-content: center;
+}
+
+.inline {
+    display: flex;
+    justify-content: space-between;
+}
+img {
+    border-radius: 50%;
+    height: 50vh;
+}
+
