@@ -21,3 +21,6 @@ https://gulledgecorey.github.io/Portfolio/
 
 <img width="1323" alt="image" src="https://github.com/gulledgecorey/Portfolio/assets/130395149/2dc390e7-20f9-452f-b5d1-46eb3e34b0b1">
 
+## Credits
+
+W3 schools CV template https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_templates_cv&stacked=h.
