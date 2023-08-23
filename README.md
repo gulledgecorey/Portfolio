@@ -16,3 +16,8 @@ Please refer to the LICENSE in my repo.
 ## Deployment
 
 https://gulledgecorey.github.io/Portfolio/
+
+## ScreenShot
+
+<img width="1323" alt="image" src="https://github.com/gulledgecorey/Portfolio/assets/130395149/2dc390e7-20f9-452f-b5d1-46eb3e34b0b1">
+
