@@ -1,40 +1,29 @@
-.header {
-    background-color: aquamarine;
-    height: 5vh;
-    display: flex;
-    justify-content: space-between;
-    margin: 1rem 0.5rem;
+#h2 {
+    color: rgb(255, 0, 0);
 }
 
-.header-ul {
-    display: flex;
-    border: solid 2px black;
+#link {
+    color: red;
+}
+#nav {
+    color: red;
+}
+#reeldeal {
+    margin: 10vh;
+    margin-left: 5vh;
+    border-radius: 4px;
+    width: 700px;
+}
+#sottb {
+    margin: 10vh;
+    margin-left: 5vh;
+    border-radius: 4px;
+    width: 400px;
+}
+#About, #Work, #Contact {
+    background-color: lightblue;
 }
 
-.header-ul li {
-    margin: 0 0.25rem;
+#foot {
+background-color: rgb(255, 0, 0);
 }
-
-.main {
-    background-color: aqua;
-    height: 90vh;
-    border: solid 2px; 
-}
-
-.footer {
-    background-color: aquamarine;
-    height: 10vh;
-    font-size: medium;
-    display: flex;
-    justify-content: center;
-}
-
-.inline {
-    display: flex;
-    justify-content: space-between;
-}
-img {
-    border-radius: 50%;
-    height: 50vh;
-}
-
